@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1461947006 source:h:\codeblocks\finalproj\basenode.cpp
+	"BaseNode.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<cstring>
+
+1461946997 h:\codeblocks\finalproj\basenode.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<cstring>
+
+1461947023 source:h:\codeblocks\finalproj\doublelinknode.cpp
+	"DoubleLinkNode.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<cstdlib>
+
+1461947016 h:\codeblocks\finalproj\doublelinknode.h
+	"BaseNode.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<cstring>
+
+1461960775 source:h:\codeblocks\finalproj\linkedlist.cpp
+	"LinkedList.h"
+	<iomanip>
+	<fstream>
+	<iostream>
+	<string>
+	<cstring>
+
+1461948758 h:\codeblocks\finalproj\linkedlist.h
+	"DoubleLinkNode.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<cstring>
+
+1461966167 source:h:\codeblocks\finalproj\main.cpp
+	"BaseNode.h"
+	"DoubleLinkNode.h"
+	"LinkedList.h"
+	<iostream>
+	<fstream>
+	<string>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<sstream>
+
